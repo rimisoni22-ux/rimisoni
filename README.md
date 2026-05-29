@@ -4,15 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a0533,50:2d0a5e,75:3b0a72,100:00f5ff&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=00f5ff&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Innovate%20🚀&descSize=16&descAlignY=60" />
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+MERN+Engineer;DSA+Strong+%7C+Problem+Solver;Frontend+%7C+Backend+Builder;Clean+Code+%7C+System+Thinking" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rimisoni22-ux&label=PROFILE+VIEWS&color=00f5ff&style=flat-square" />
 <img src="https://img.shields.io/github/followers/rimisoni22-ux?label=FOLLOWERS&color=7c3aed&style=flat-square" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00f5ff?style=flat-square" />
-
 </div>
 
 ---
