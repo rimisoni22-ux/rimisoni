@@ -1,18 +1,5 @@
-Below is your **FINAL SILICON-VALLEY LEVEL GitHub README** with:
 
-✅ LinkedIn + GitHub + LeetCode + CodeChef links
-✅ GitHub Stats + Trophies (working setup)
-✅ Snake animation
-✅ Hacker terminal style UI
-✅ Glassmorphism cards
-✅ Portfolio + Resume button
-✅ Clean FAANG-style layout
 
----
-
-# 🚀 COPY-PASTE FULL FINAL CODE
-
-````html
 <!-- ================= HEADER ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=✨%20Rimi%20Soni%20✨&fontSize=70&fontColor=00F5FF&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20DSA%20Solver&descSize=16&descAlignY=60" />
