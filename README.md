@@ -1,9 +1,9 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=ff4dff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Web%20Builder&descSize=16&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=ff4dff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Web%20Developer&descSize=16&descAlignY=60" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Software+Engineer+in+the+Making;Building+Scalable+Web+Applications;Strong+DSA+%7C+Clean+Code+%7C+System+Thinking;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Strong+DSA+%7C+Clean+Code+%7C+Problem+Solver;Full+Stack+MERN+Developer;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
 
 <br/>
 
@@ -19,57 +19,60 @@
 
 ```yaml
 name: Rimi Soni
-role: Software Engineer | Web Developer
+role: Software Engineer
 
 mindset:
-  - Think like a builder 🧠
-  - Solve like an engineer ⚡
-  - Build like a creator 🚀
+  - Build real-world applications 🚀
+  - Solve problems daily 🧠
+  - Write clean & scalable code 💻
 
 focus:
   - Full Stack Web Development (MERN)
   - Data Structures & Algorithms (Java)
-  - System Design Basics
-  - Real-world project building
-
-passion:
-  - Turning logic into scalable systems
-  - Writing clean and efficient code
-  - Learning by building real projects
+  - System Thinking & Problem Solving
 ````
 
 ---
 
-## ⚡ TECH STACK
+## ⚡ TECH STACK (Beautiful UI)
 
-**Languages**
+### 💻 Languages
 
-* Java
-* JavaScript
-* C / C++
-* HTML5 / CSS3
+<div align="center">
 
-**Frontend**
+![Java](https://img.shields.io/badge/Java-ff4d4d?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd93d?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-4dabf7?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff922b?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-339af0?style=for-the-badge\&logo=css3\&logoColor=white)
 
-* React.js
-* Responsive UI Development
+</div>
 
-**Backend**
+---
 
-* Node.js
-* Express.js
-* REST APIs
+### ⚙️ Frontend & Backend
 
-**Database**
+<div align="center">
 
-* MongoDB
-* MySQL
+![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-51CF66?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-**Tools**
+</div>
 
-* Git & GitHub
-* VS Code
-* Postman
+---
+
+### 🗄️ Database & Tools
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+</div>
 
 ---
 
@@ -78,32 +81,18 @@ passion:
 * 🧠 150+ LeetCode Problems Solved
 * 🔥 50+ CodeChef Problems Solved
 * 📅 50 Days Coding Badge Achieved
-* ⚡ Strong Problem-Solving Skills
-* 🚀 Daily DSA Practice in Java
+* ⚡ Strong Problem Solving Skills
+* 🚀 Daily Java DSA Practice
 
 ---
 
-## 🚀 PROJECTS
+## 🏆 GITHUB TROPHIES
 
-### 🧪 Periodic Table App
+<div align="center">
 
-Interactive UI-based periodic table project
+<img src="https://github-profile-trophy.vercel.app/?username=rimisoni22-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
-### 🎵 Spotify UI Clone
-
-Frontend music streaming interface
-
-### 🎮 Simon Says Game
-
-Logic-based JavaScript game
-
-### 🏡 Airbnb Clone
-
-Full-stack MERN booking platform UI
-
-### 🌐 Portfolio Website
-
-Personal developer branding website
+</div>
 
 ---
 
@@ -129,13 +118,13 @@ Personal developer branding website
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🚀 PROJECTS
 
-* 🧠 150+ DSA Problems Solved
-* 🔥 50+ CodeChef Problems Solved
-* 📅 50 Days Coding Badge
-* 💻 Strong Logical & Analytical Thinking
-* 🚀 Project-Based Learning Approach
+* 🧪 Periodic Table Web App
+* 🎵 Spotify Clone
+* 🎮 Simon Says Game
+* 🏡 Airbnb Clone (MERN)
+* 🌐 Portfolio Website
 
 ---
 
@@ -149,8 +138,10 @@ Personal developer branding website
 
 <div align="center">
 
-## 💜 “Think. Build. Solve. Repeat.” 💜
+## ⭐ “Build. Learn. Improve. Repeat.” ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
 </div>
 
+Just say: **“make it elite UI max”** 😎
