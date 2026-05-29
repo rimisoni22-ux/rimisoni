@@ -1,66 +1,42 @@
 
-
 <!-- ================= HEADER ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=✨%20Rimi%20Soni%20✨&fontSize=70&fontColor=00F5FF&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20DSA%20Solver&descSize=16&descAlignY=60" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=FAANG+Level+Builder+%F0%9F%9A%80;Full+Stack+MERN+Developer;DSA+Strong+%7C+Java+Problem+Solver;System+Design+Learner;Always+Building+Real+World+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;DSA+Strong+%7C+Java+Problem+Solver;Building+Real+World+Applications;Clean+Code+%7C+System+Thinking" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rimisoni22-ux&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" />
 <img src="https://img.shields.io/github/followers/rimisoni22-ux?label=FOLLOWERS&color=ff4dff&style=flat-square" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20FAANG%20ROLES-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-brightgreen?style=flat-square" />
 
 </div>
 
 ---
 
-# 🧠 TERMINAL STYLE INTRO
+# 👩‍💻 ABOUT ME
 
-```bash
-> whoami
-Rimi Soni
+```yaml
+name: Rimi Soni
+role: Software Engineer (MERN)
 
-> role
-Software Engineer (MERN + DSA)
+mindset:
+  - Build real-world apps 🚀
+  - Solve DSA problems daily 🧠
+  - Write clean scalable code 💻
 
-> status
-Building scalable systems 🚀
-
-> goal
-FAANG Developer 💼
+focus:
+  - Full Stack Development
+  - Data Structures & Algorithms
+  - System Thinking
 ````
 
 ---
 
-# 🧊 GLASSMORPHISM PROFILE CARD
-
-<div align="center">
-
-<table>
-<tr>
-<td style="background:rgba(255,255,255,0.08);backdrop-filter:blur(12px);border-radius:20px;padding:20px;">
-
-### 👩‍💻 ABOUT ME
-
-* 🚀 Full Stack MERN Developer
-* 🧠 150+ LeetCode Problems
-* 🔥 50+ CodeChef Problems
-* 💡 Clean Code + Problem Solver
-* 🌍 India 🇮🇳
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🔗 CONNECT WITH ME (ALL LINKS)
+# 🔗 CONNECT WITH ME
 
 <div align="center">
 
@@ -83,14 +59,14 @@ FAANG Developer 💼
 ![Java](https://img.shields.io/badge/Java-ff4d4d?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffd93d?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-51CF66?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-51CF66?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📊 GITHUB STATS (LIVE)
+# 📊 GITHUB STATS
 
 <div align="center">
 
@@ -112,7 +88,7 @@ FAANG Developer 💼
 
 ---
 
-# 🐉 SNAKE ANIMATION
+# 🐍 SNAKE CONTRIBUTION
 
 <div align="center">
 
@@ -122,68 +98,28 @@ FAANG Developer 💼
 
 ---
 
-# 📈 CODING PERFORMANCE
+# 🚀 PROJECTS
+
+* 🧪 Periodic Table Web App
+* 🎵 Spotify Clone
+* 🎮 Simon Says Game
+* 🏡 Airbnb Clone (MERN)
+* 🌐 Portfolio Website
+
+
+
+
+
+# 📈 CODING JOURNEY
 
 * 🧠 150+ LeetCode Problems
 * 🔥 50+ CodeChef Problems
 * ⚡ Strong DSA Practice
-* 🚀 Consistent Problem Solver
+* 🚀 Full Stack Developer Path
 
 ---
 
-# 💼 RESUME + PORTFOLIO
-
-<div align="center">
-
-### 📄 Resume
-
-👉 Click to Download (Add your link here)
-
-```
-https://your-resume-link.com
-```
-
-### 🌐 Portfolio
-
-```
-https://your-portfolio-link.com
-```
-
-</div>
-
----
-
-# 💻 PORTFOLIO IDEA (WHAT YOU SHOULD BUILD NEXT)
-
-* React animated landing page
-* 3D skill cube (Three.js)
-* Project showcase cards
-* Contact form (EmailJS)
-* Dark + neon theme
-
----
-
-# 🧠 NEXT LEVEL FEATURES (WHAT YOU ASKED)
-
-### 🧊 3D Cube (Real version idea)
-
-* Use **React + Three.js**
-
-### 🐉 Custom Snake
-
-* GitHub workflow with custom color SVG
-
-### 🔥 Hacker Terminal UI
-
-Already added above ⬆️
-
-### 💼 One-click Resume Button
-
-Already added above ⬆️
-
----
-
-# 🤝 FINAL CONNECT
+# 🤝 CONNECT AGAIN
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/rimi-soni-638810330](https://www.linkedin.com/in/rimi-soni-638810330)
 * 💻 GitHub: [https://github.com/rimisoni22-ux](https://github.com/rimisoni22-ux)
@@ -193,36 +129,9 @@ Already added above ⬆️
 
 <div align="center">
 
-## ⚡ “Think. Build. Scale. Repeat.” ⚡
+## ✨ “Think. Build. Solve. Repeat.” ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
-</div>
-```
-
----
-
-# 🧠 HOW TO SEE YOUR TROPHIES & STATS
-
-### ✔ GitHub Stats
-
-Just open:
-
-```
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME
-```
-
-### ✔ Trophies
-
-```
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME
-```
-
-### ✔ Snake animation
-
-Works only if:
-
-* You add `.github/workflows/snake.yml`
-* GitHub Actions enabled
 
 
