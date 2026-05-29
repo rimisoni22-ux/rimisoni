@@ -1,37 +1,41 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%7C%20DSA%20%7C%20Problem%20Solver&descSize=16&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=ff4dff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Web%20Builder&descSize=16&descAlignY=60" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Java+DSA+Problem+Solver;Building+Real+World+Projects;Clean+Code+%7C+Scalable+Apps;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Software+Engineer+in+the+Making;Building+Scalable+Web+Applications;Strong+DSA+%7C+Clean+Code+%7C+System+Thinking;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rimisoni22-ux&label=PROFILE+VIEWS&color=00f5ff&style=flat-square" />
-<img src="https://img.shields.io/github/followers/rimisoni22-ux?label=FOLLOWERS&color=00f5ff&style=flat-square" />
-<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-brightgreen?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=rimisoni22-ux&label=PROFILE+VIEWS&color=ff4dff&style=flat-square" />
+<img src="https://img.shields.io/github/followers/rimisoni22-ux?label=FOLLOWERS&color=00F5FF&style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-brightgreen?style=flat-square" />
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 👩‍💻 ABOUT ME
 
 ```yaml
 name: Rimi Soni
-role: Full Stack Developer (MERN)
-location: India 🇮🇳
+role: Software Engineer | Web Developer
 
-passion:
-  - Building real-world web applications
-  - Solving DSA problems daily in Java
-  - Creating modern UI/UX experiences
-  - Turning ideas into production-ready products
+mindset:
+  - Think like a builder 🧠
+  - Solve like an engineer ⚡
+  - Build like a creator 🚀
 
 focus:
-  - MERN Stack Development
-  - Data Structures & Algorithms
-  - Problem Solving & Optimization
+  - Full Stack Web Development (MERN)
+  - Data Structures & Algorithms (Java)
+  - System Design Basics
+  - Real-world project building
+
+passion:
+  - Turning logic into scalable systems
+  - Writing clean and efficient code
+  - Learning by building real projects
 ````
 
 ---
@@ -48,8 +52,7 @@ focus:
 **Frontend**
 
 * React.js
-* Responsive UI Design
-* DOM Manipulation
+* Responsive UI Development
 
 **Backend**
 
@@ -70,37 +73,37 @@ focus:
 
 ---
 
-## 🧠 DSA & CODING JOURNEY
+## 🧠 CODING JOURNEY
 
 * 🧠 150+ LeetCode Problems Solved
 * 🔥 50+ CodeChef Problems Solved
 * 📅 50 Days Coding Badge Achieved
-* ⚡ Strong focus on patterns & optimization
-* 🚀 Daily Java DSA practice
+* ⚡ Strong Problem-Solving Skills
+* 🚀 Daily DSA Practice in Java
 
 ---
 
 ## 🚀 PROJECTS
 
-### 🧪 Periodic Table Web App
+### 🧪 Periodic Table App
 
-Interactive periodic table using HTML, CSS, JS
+Interactive UI-based periodic table project
 
-### 🎵 Spotify Clone
+### 🎵 Spotify UI Clone
 
-Frontend music streaming UI clone
+Frontend music streaming interface
 
 ### 🎮 Simon Says Game
 
-Memory-based JavaScript game
+Logic-based JavaScript game
 
 ### 🏡 Airbnb Clone
 
-Full-stack MERN booking-style application
+Full-stack MERN booking platform UI
 
 ### 🌐 Portfolio Website
 
-Personal developer portfolio website
+Personal developer branding website
 
 ---
 
@@ -128,11 +131,11 @@ Personal developer portfolio website
 
 ## 🏆 ACHIEVEMENTS
 
-* 🧠 150+ LeetCode Problems
-* 🔥 50+ CodeChef Problems
+* 🧠 150+ DSA Problems Solved
+* 🔥 50+ CodeChef Problems Solved
 * 📅 50 Days Coding Badge
-* 🚀 Strong Problem-Solving Skills
-* 💻 Full Stack Developer (MERN)
+* 💻 Strong Logical & Analytical Thinking
+* 🚀 Project-Based Learning Approach
 
 ---
 
@@ -146,9 +149,8 @@ Personal developer portfolio website
 
 <div align="center">
 
-## ⭐ Code • Build • Learn • Repeat ⭐
+## 💜 “Think. Build. Solve. Repeat.” 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 </div>
-
 
