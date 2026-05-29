@@ -36,3 +36,70 @@ achievements:
   - 150+ LeetCode Problems Solved
   - 50+ CodeChef Problems Solved
   - 50 Days Coding Badge
+🧠 DSA Journey
+🧠 150+ Problems solved on LeetCode
+🔥 50+ Problems solved on CodeChef
+📅 50 Days Coding Badge earned
+⚡ Daily Java DSA practice
+💡 Focus on patterns & optimization
+🚀 Featured Projects
+🧪 Periodic Table
+
+Interactive periodic table using HTML, CSS, JS.
+
+🎵 Spotify Clone
+
+Music streaming UI clone using frontend technologies.
+
+🎮 Simon Says Game
+
+Memory-based game using JavaScript logic.
+
+🏡 Airbnb Clone
+
+Full-stack MERN project with booking-style UI.
+
+🌐 Portfolio Website
+
+Personal portfolio showcasing skills and projects.
+
+🛠️ Tech Stack
+
+Languages
+
+Java
+JavaScript
+C / C++
+HTML5 / CSS3
+
+Frontend
+
+React.js
+Responsive Web Design
+
+Backend
+
+Node.js
+Express.js
+
+Database
+
+MongoDB
+MySQL
+
+Tools
+
+Git & GitHub
+VS Code
+Postman
+📊 GitHub Stats
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rimisoni22-ux&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimisoni22-ux&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimisoni22-ux&theme=react-dark&hide_border=true" /> </div>
+🤝 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/rimi-soni-638810330
+💻 GitHub: https://github.com/rimisoni22-ux
+📧 Email: mailto:rimisoni22@gmail.com
+<div align="center">
+⭐ Code • Build • Learn • Repeat ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:2d0a5e,100:0a0a0f&height=120&section=footer"/> </div> ``
