@@ -17,7 +17,7 @@
 
 ---
 
-# 👩‍💻 ABOUT ME (CYBER STYLE)
+# 👩‍💻 ABOUT ME
 
 ```yaml
 name: Rimi Soni
@@ -36,7 +36,7 @@ focus:
 
 ---
 
-# ⚡ TECH STACK (NEON STYLE)
+# ⚡ TECH STACK 
 
 ---
 
@@ -117,7 +117,7 @@ focus:
 
 </div>
 
----
+
 
 # 🚀 PROJECTS
 
@@ -144,4 +144,4 @@ focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a0533,50:2d0a5e,75:3b0a72,100:00f5ff&height=120&section=footer"/>
 
 </div>
-```
+
