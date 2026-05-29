@@ -17,7 +17,7 @@
 
 ---
 
-# 👩‍💻 ABOUT ME (CYBER STYLE)
+# 👩‍💻 ABOUT ME 
 
 ```yaml
 name: Rimi Soni
@@ -36,7 +36,7 @@ focus:
 
 ---
 
-# ⚡ TECH STACK (NEON STYLE)
+# ⚡ TECH STACK
 
 ---
 
@@ -108,17 +108,6 @@ focus:
 </div>
 
 ---
-
-# 🐍 SNAKE ANIMATION
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rimisoni22-ux/rimisoni22-ux/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 # 🚀 PROJECTS
 
 * 🧪 Periodic Table Web App
@@ -139,7 +128,7 @@ focus:
 
 <div align="center">
 
-## ⚡ “Build. Break. Learn. Repeat.” ⚡
+## “Build. Break. Learn. Repeat.” 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a0533,50:2d0a5e,75:3b0a72,100:00f5ff&height=120&section=footer"/>
 
