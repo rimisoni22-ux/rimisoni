@@ -1,6 +1,4 @@
-Here is your **FINAL COMPLETE GitHub README (ONE FULL COPY-PASTE FILE)** — ultra clean, animated, job-ready, and professional:
 
-````html
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%7C%20DSA%20%7C%20Problem%20Solver&descSize=16&descAlignY=60" />
 
 <div align="center">
@@ -154,13 +152,4 @@ Personal developer portfolio website
 </div>
 ```
 
----
 
-If you want next upgrade, I can make your profile:
-🔥 Ultra neon hacker theme
-🔥 Snake contribution animation
-🔥 3D trophies + badges
-🔥 Animated skill bars
-🔥 Resume-ready portfolio version
-
-Just say: **“make it elite pro max”** 🚀
